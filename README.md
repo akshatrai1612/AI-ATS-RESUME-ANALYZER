@@ -39,7 +39,7 @@ Planned for V2:
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/aryanshrivastava587-crypto/AI-ATS-Resume-Analyzer.git
+git clone https://github.com/akshatrai1612/AI-ATS-Resume-Analyzer.git
 cd AI-ATS-Resume-Analyzer
 
 python -m venv venv
